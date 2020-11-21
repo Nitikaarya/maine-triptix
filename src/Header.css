@@ -1,0 +1,36 @@
+.nav-link{
+    font-size: 16px;
+    color: white !important;
+}
+
+.sty{
+    color: #44d6e9 !important;
+}  
+
+.main{
+    font-Weight: bolder; 
+    margin-Left: 0%; 
+    font-Size: 36px; 
+    color: white;
+    cursor: pointer;
+}
+
+.headname {
+    color: #44d6e9 !important; 
+    margin-Left: 15%; 
+    font-Size: 36px !important;
+    font-Weight: bolder;
+    font-Family: unset;
+}
+
+.header--fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1024;
+    background: rgb(33 37 41 / 55%);
+}
+
+a:hover {
+    color: #44d6e9  !important;
+}
